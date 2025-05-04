@@ -1,2 +1,3 @@
-Hi Monisha !! !
+Hi Monisha !! ! 
+Checking the changes
 Using git -a -m ( to autostage and commit the files that Git is already tracking)
