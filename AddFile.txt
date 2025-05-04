@@ -1,8 +1,0 @@
-Hi Monisha !! ! 
-Checking the changes
-Using git -a -m ( to autostage and commit the files that Git is already tracking)
-This line was added
-to check the numq
-asdfghn
-Using git Diff
-adding txt in line 8
