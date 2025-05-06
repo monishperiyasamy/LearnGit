@@ -1,0 +1,9 @@
+react 
+
+npx create-react-app my-app
+
+to open folder in vs code using cmd
+
+--> type cmd in address bar , then type code . cmd ---> it will open vs code
+
+to close terminal ctrl + `
